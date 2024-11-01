@@ -1,7 +1,6 @@
 ### Olá! Sou o Lucas Taborda
 
 - 🔭 Estudando Ciência da computação
-- 🌱 Explorando o mundo do desenvolvimento web
 
 <div align="center">
   <a href="https://github.com/luinhol">
